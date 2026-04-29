@@ -3,6 +3,8 @@ CapCad JSON format — Open format for exchanging CAD geometry with AI
 
 CapJSON is a compact, human-readable JSON format for representing 2D CAD geometry. It is designed to make geometric entities readable and writable by both CAD software and large language models, enabling a clean round-trip edit loop: read from CAD → send to AI → receive edited geometry → write back to CAD.
 
+CapCad CAD plugin: the original implementation. Includes free commands for reading and writing CapJSON directly from AutoCAD, Civil 3D, ZWCAD, BricsCAD and GstarCAD - www.capcad.io/downloads
+
 ---
 
 ## Why
